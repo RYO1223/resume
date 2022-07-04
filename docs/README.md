@@ -2,22 +2,41 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名||
-|生年月日||
-|Twitter||
-|Qiita||
-|note||
-|Zenn||
-|SpeakerDeck||
+| key      | value                |
+| -------- | -------------------- |
+| 氏名     | 桑野 涼 (Kuwano Ryo) |
+| 生年月日 | 1999/08/11           |
+| 居住地   | 徳島県               |
+| 最終学歴 | 阿南高等専門学校     |
+
+---
+
+## 各種アカウント
+
+<p>
+  <a href="https://github.com/RYO1223" >
+    <img alt="GitHub" src="https://img.shields.io/badge/kuwanoryo-181717.svg?&style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/RYO59804624" >
+    <img alt="Twitter" src="https://img.shields.io/badge/@RYO59804624-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://qiita.com/RYO1223" >
+    <img alt="Qiita" src="https://img.shields.io/badge/RYO1223-55C500.svg?&style=flat&logo=qiita&logoColor=white" />
+  </a>
+  <a href="https://ryoblog365.com/" >
+    <img alt="Blog" src="https://img.shields.io/badge/ryoblog-21759B.svg?&style=flat&logo=wordPress&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 保有スキル
 
-- 
-
+- TypeScript + Next.js での Web ページ開発
+- TypeScript + React Native でのアプリ開発
+- Flutter でのアプリ開発
+- Ruby on Rails でのバックエンド開発
+- Firebase の各種機能を使用した開発
 
 ---
 
@@ -25,24 +44,125 @@
 
 ### 言語
 
-- 
+<p>
+  <a href="https://www.javascript.com/" >
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  </a>
+  <a href="https://www.typescriptlang.org/" >
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://dart.dev/" >
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175c2?style=flat&logo=dart&logoColor=white" />
+  </a>
+  <a href="https://www.ruby-lang.org/ja/" >
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white" />
+  </a>
+</p>
 
-### フレームワーク・その他
+### フレームワーク
 
-- 
+<p>
+  <a href="https://ja.reactjs.org/" >
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="https://nextjs.org/" >
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://reactnative.dev/" >
+    <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="https://docs.expo.dev/" >
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  </a>
+  <a href="https://flutter.dev/" >
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://rubyonrails.org/" >
+    <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=Ruby-on-Rails&logoColor=white" />
+  </a>
+</p>
+
+### クラウド
+
+<p>
+  <a href="https://firebase.google.com/" >
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/docs/auth?hl=ja" >
+    <img alt="Firebase Authentication" src="https://img.shields.io/badge/Authentication-FFCA28?style=flat&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/docs/firestore?hl=ja" >
+    <img alt="Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/docs/storage?hl=ja" >
+    <img alt="Cloud Storage" src="https://img.shields.io/badge/Cloud_Storage-FFCA28?style=flat&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/docs/hosting?hl=ja" >
+    <img alt="Firebase Hosting" src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/docs/functions?hl=ja" >
+    <img alt="Cloud Functions" src="https://img.shields.io/badge/Cloud_Functions-FFCA28?style=flat&logoColor=white" />
+  </a>
+</p>
+
+### その他
+
+<p>
+  <a href="https://www.docker.com/" >
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://graphql.org/" >
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  </a>
+  <a href="https://www.apollographql.com/" >
+    <img alt="Apollo" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white" />
+  </a>
+  <a href="https://sentry.io/welcome/" >
+    <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362d59?style=flat&logo=sentry&logoColor=white" />
+  </a>
+  <a href="https://sendgrid.kke.co.jp/" >
+    <img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-white?style=flat" />
+  </a>
+</p>
 
 ---
 
 ## 職務経歴詳細
 
-### A株式会社（2020/04〜現在）
+### 社内向けチャットツールの開発（2021/05〜2022/04）
 
-- 
+- **プロジェクト規模：**
 
-### B株式会社（2015/04〜2020/03）
+  - 2~4 人でのアジャイル開発
 
-- 
+- **プロジェクト詳細：**
+  - React Native + Expo でのアプリ開発
+  - Rails + Graphql でのバックエンド開発
+  - Firebase でのユーザー認証、ストレージアクセス権限設定、Function の開発など
+  - エラー検知ツールの設定
+  - メール配信ツールの設定
+
+### 人材マッチングツールの開発（2021/08〜2020/04）
+
+- **プロジェクト規模：**
+
+  - 3 人でのアジャイル開発
+
+- **プロジェクト詳細：**
+  - Next.js での Web ページ開発
+  - Rails + Graphql でのバックエンド開発
+  - Firebase でのユーザー認証設定
+  - 外部 API でデータを取得し、DB に保存する機能の実装
+  - メール配信ツールの設定
+
+---
 
 ## 業務外活動
 
-- 
+### Flutter チュートリアルアプリ([warikan](https://github.com/RYO1223/warikan))の作成
+
+mvvm + repository パターンでの開発練習のために作成
+
+Cloud Firestore を使用して、データを保存
+
+詳しくは[warikan](https://github.com/RYO1223/warikan)の README に書いてあります。
