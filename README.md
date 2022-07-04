@@ -2,7 +2,7 @@
 
 ## Data
 
-- Github Pages
+- [Github Pages](https://ryo1223.github.io/resume/)
 - [PDF](https://github.com/RYO1223/resume/releases/tag/v1.0)
 - [File](https://github.com/RYO1223/resume/blob/master/docs/README.md)
 
