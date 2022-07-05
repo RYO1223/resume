@@ -36,6 +36,7 @@
 - TypeScript + React Native でのアプリ開発
 - Flutter でのアプリ開発
 - Ruby on Rails でのバックエンド開発
+- Rspec でのテスト作成
 - Firebase の各種機能を使用した開発
 
 ---
