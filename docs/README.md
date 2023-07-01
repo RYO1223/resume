@@ -28,12 +28,11 @@
 
 ## 保有スキル
 
-- TypeScript + Next.js での Web ページ開発
-- TypeScript + React Native でのアプリ開発
-- Flutter でのアプリ開発
-- Ruby on Rails でのバックエンド開発
-- Rspec でのテスト作成
-- Firebase の各種機能を使用した開発
+- TypeScript + Next.js での Web ページ開発(1年未満)
+- TypeScript + React Native でのアプリ開発(1年)
+- Flutter でのアプリ開発(1年)
+- Ruby on Rails でのバックエンド開発(1年)
+- Firebase の各種機能を使用した開発(2年)
 
 ---
 
@@ -42,9 +41,6 @@
 ### 言語
 
 <p>
-  <a href="https://www.javascript.com/" >
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  </a>
   <a href="https://www.typescriptlang.org/" >
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   </a>
@@ -120,6 +116,9 @@
   <a href="https://sendgrid.kke.co.jp/" >
     <img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-white?style=flat" />
   </a>
+  <a href="https://www.revenuecat.com/" >
+    <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat&logo=revenue-cat&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -133,11 +132,11 @@
   - 2~4 人でのアジャイル開発
 
 - **担当した実装：**
+
   - React Native + Expo でのアプリ開発
   - Rails + Graphql でのバックエンド開発
   - Rspec を使用したテストコード作成
   - Firebase でのユーザー認証、ストレージアクセス権限設定、独自 Function の開発など
-  - TypeScript で any 型を使わないようにリファクタリング
 
 ### 人材マッチングツールの立ち上げ・開発（2021/08〜2020/04）
 
@@ -146,6 +145,7 @@
   - 3 人でのアジャイル開発
 
 - **担当した実装：**
+
   - Next.js での Web ページ開発
   - Rails + Graphql でのバックエンド開発
   - Rspec を使用したテストコードの作成
@@ -157,11 +157,11 @@
 ### SNSアプリ開発（2022/07~2023/05）
 
 - **担当した実装：**
-　　　　- フロントエンド・バックエンド・インフラまで対応
+
+  - フロントエンド・バックエンド・インフラまで対応
   - FlutterでMVVMアーキテクチャでの開発
     - Firestoreを利用したリアルタイムチャット機能の実装
     - FlutterWebの導入
-    - 画像の入出力の実装
   - Ruby on Railsでのバックエンド開発
   - Firebase全般(Authentication, Storage, Firestore, Hosting, Function)
     - Firestoreの更新によってFunctionで自動で通知を送る機能
@@ -170,24 +170,25 @@
 ### 旅行系アプリ開発(2022/11~2023/06)
 
 - **担当した実装：**
-　　　　- Flutterでの難しい実装とメインレビュアー
+
+  - Flutterでの難しい実装とメインレビュアー
     - [CustomPaint](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)を使用したグラフィカルなUIの実装
     - [Sliver](https://docs.flutter.dev/ui/advanced/slivers)を利用したファンシーなスクロールの実装
-  　　　　- RevenueCatを利用した課金機能の実装
-    - 基盤サービスの設計・実装
-    - その他バグ修正
+    - RevenueCatを利用した課金機能の実装
+    - コア機能の設計・実装
 
 ### マッチングアプリ開発(2022/12~2023/02)
 
 - **担当した実装：**
-　　　　- Ruby on Railsでバックエンド・管理者画面の開発
+
+  - Ruby on Railsでバックエンド・管理者画面の開発
     - モバイルへのプッシュ通知送信機能の実装
-    - バグ修正
   
 ### OCR(文字認識)アプリ開発(2023/04~2023/06)
 
 - **担当した実装：**
-　　　　- Flutterでコア機能のバグ修正
+
+  - Flutterでコア機能のバグ修正
 
 ---
 
