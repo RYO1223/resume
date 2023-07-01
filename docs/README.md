@@ -114,10 +114,10 @@
     <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362d59?style=flat&logo=sentry&logoColor=white" />
   </a>
   <a href="https://sendgrid.kke.co.jp/" >
-    <img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-white?style=flat" />
+    <img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-009ed9?style=flat" />
   </a>
   <a href="https://www.revenuecat.com/" >
-    <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat&logo=revenue-cat&logoColor=white" />
+    <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat" />
   </a>
 </p>
 
