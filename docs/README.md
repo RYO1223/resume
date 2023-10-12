@@ -1,44 +1,39 @@
-# 職務経歴書
+# Resume
 
-## 基本情報
+## Personal Data
 
 | key      | value                |
 | -------- | -------------------- |
-| 氏名     | 桑野 涼 (Kuwano Ryo) |
-| 生年月日 | 1999/08/11           |
-| 居住地   | 徳島県               |
+| Name     | Ryo Kuwano |
+| Birthday | 1999/08/11           |
+| Residence   | Tokushima Japan     |
 
 ---
 
-## 各種アカウント
+## Accounts
 
 <p>
   <a href="https://github.com/RYO1223" >
     <img alt="GitHub" src="https://img.shields.io/badge/kuwanoryo-181717.svg?&style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/RYO59804624" >
-    <img alt="Twitter" src="https://img.shields.io/badge/@RYO59804624-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/RYO1223" >
-    <img alt="Qiita" src="https://img.shields.io/badge/RYO1223-55C500.svg?&style=flat&logo=qiita&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 保有スキル
+## Skills
 
-- TypeScript + Next.js での Web ページ開発(1年未満)
-- TypeScript + React Native でのアプリ開発(1年)
-- Flutter でのアプリ開発(1年)
-- Ruby on Rails でのバックエンド開発(1年)
-- Firebase の各種機能を使用した開発(2年)
+- Web page dev in Next.js (1 year)
+- Mobile app dev in React Native (1 year)
+- Mobile app dev in Flutter (1 year)
+- Backend app dev in Ruby on Rails (1 year)
+- Dev using various Firebase features (2 years)
+- From design to submission to Stores for personal dev app [AI Voice Talk]()
 
 ---
 
-## 技術スタック
+## Technology Stacks
 
-### 言語
+### Languages
 
 <p>
   <a href="https://www.typescriptlang.org/" >
@@ -50,9 +45,12 @@
   <a href="https://www.ruby-lang.org/ja/" >
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white" />
   </a>
+  <a href="https://go.dev/" >
+    <img alt="Golang" src="https://img.shields.io/badge/Go-00aed9?style=flat&logo=Go&logoColor=white" />
+  </a>
 </p>
 
-### フレームワーク
+### Frameworks
 
 <p>
   <a href="https://ja.reactjs.org/" >
@@ -75,7 +73,7 @@
   </a>
 </p>
 
-### クラウド
+### Cloud
 
 <p>
   <a href="https://firebase.google.com/" >
@@ -98,7 +96,7 @@
   </a>
 </p>
 
-### その他
+### Others
 
 <p>
   <a href="https://www.docker.com/" >
