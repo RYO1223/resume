@@ -1,11 +1,11 @@
-# Resume
+# My Resume
 
 ## Personal Data
 
 | key      | value                |
 | -------- | -------------------- |
 | Name     | Ryo Kuwano |
-| Birthday | 1999/08/11           |
+| Age & Birthday | 24 1999/08/11           |
 | Residence   | Tokushima Japan     |
 
 ---
@@ -27,7 +27,7 @@
 - Mobile app dev in Flutter (1 year)
 - Backend app dev in Ruby on Rails (1 year)
 - Dev using various Firebase features (2 years)
-- From design to submission to Stores for personal dev app [AI Voice Talk]()
+- Personal app [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) dev from design to submission to Stores
 
 ---
 
@@ -121,9 +121,25 @@
 
 ---
 
-## 職務経歴詳細
+## Details of work history
 
-### 社内向けチャットツールの開発（2021/05〜2022/04）
+```mermaid
+gantt
+
+dateFormat YYYY-MM
+axisFormat %Y-%m
+tickInterval 3month
+
+Chat App: 2021-05, 2022-05
+Matching App: 2021-08, 2022-05
+SNS App: 2022-07, 2023-06
+Travel App: 2022-11, 2023-07
+Matching App: 2022-12, 2023-03
+OCR App: 2023-04, 2023-07
+AI Voice Talk: 2023-08, 2023-10
+```
+
+### Chat App Dev (1 year)
 
 - **プロジェクト規模：**
 
@@ -136,7 +152,7 @@
   - Rspec を使用したテストコード作成
   - Firebase でのユーザー認証、ストレージアクセス権限設定、独自 Function の開発など
 
-### 人材マッチングツールの立ち上げ・開発（2021/08〜2020/04）
+### Maching App Dev (9 months)
 
 - **プロジェクト規模：**
 
@@ -152,7 +168,7 @@
   - エラー検知ツールの導入
   - メール配信ツールの導入
  
-### SNSアプリ開発（2022/07~2023/05）
+### SNS App Dev (11 months)
 
 - **担当した実装：**
 
@@ -165,7 +181,7 @@
     - Firestoreの更新によってFunctionで自動で通知を送る機能
   - AWS　EC2でのデプロイ作業、障害調査
  
-### 旅行系アプリ開発(2022/11~2023/06)
+### Travel App Dev (8 months)
 
 - **担当した実装：**
 
@@ -175,30 +191,20 @@
     - RevenueCatを利用した課金機能の実装
     - コア機能の設計・実装
 
-### マッチングアプリ開発(2022/12~2023/02)
+### Matching App Dev (3 months)
 
 - **担当した実装：**
 
   - Ruby on Railsでバックエンド・管理者画面の開発
     - モバイルへのプッシュ通知送信機能の実装
   
-### OCR(文字認識)アプリ開発(2023/04~2023/06)
+### OCR App Dev (3 months)
 
 - **担当した実装：**
 
   - Flutterでコア機能のバグ修正
 
----
-
-## 業務外活動
-
-### Flutter チュートリアルアプリ([warikan](https://github.com/RYO1223/warikan))の作成
-
-mvvm + repository パターンでの開発練習のために作成
-
-Cloud Firestore を使用して、データを保存
-
-詳しくは[warikan](https://github.com/RYO1223/warikan)の README に書いてあります。
+### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) (2 moths)
 
 ---
 
