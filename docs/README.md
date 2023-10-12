@@ -1,16 +1,14 @@
-# My Resume
+# Ryo Kuwano's Resume
 
-## Personal Data
+## Contact Information
 
-| key      | value                |
-| -------- | -------------------- |
-| Name     | Ryo Kuwano |
-| Age & Birthday | 24 1999/08/11           |
-| Residence   | Tokushima Japan     |
+- Email: kuwanor0811@gmail.com
+- Phone: +81-80-4637-0565
+- Location: Tokushima Japan
 
 ---
 
-## Accounts
+## Social Media & Github
 
 <p>
   <a href="https://github.com/RYO1223" >
@@ -20,20 +18,25 @@
 
 ---
 
+## Summary
+
+Highly motivated software developer with a strong background in mobile and web application development. Experienced in working with various technology stacks and cloud services. Passionate about learning new technologies and contributing to team success.
+
+---
 ## Skills
 
-- Web page dev in Next.js (1 year)
-- Mobile app dev in React Native (1 year)
-- Mobile app dev in Flutter (1 year)
-- Backend app dev in Ruby on Rails (1 year)
-- Dev using various Firebase features (2 years)
-- Personal app [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) dev from design to submission to Stores
+- Web page development in Next.js (1 Year)
+- Mobile application development in React Native (1 Year)
+- Mobile application development in Flutter (1 Year)
+- Backend application development in Ruby on Rails (1 Year)
+- Development using various Firebase features (2 Years)
+- Personal app [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) development from design to submission to Stores
 
 ---
 
 ## Technology Stacks
 
-### Languages
+### Programming Languages
 
 <p>
   <a href="https://www.typescriptlang.org/" >
@@ -50,7 +53,7 @@
   </a>
 </p>
 
-### Frameworks
+### FrontEnd Frameworks
 
 <p>
   <a href="https://ja.reactjs.org/" >
@@ -68,12 +71,21 @@
   <a href="https://flutter.dev/" >
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   </a>
+</p>
+
+### Backend Frameworks
+
+<p>
   <a href="https://rubyonrails.org/" >
     <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=Ruby-on-Rails&logoColor=white" />
   </a>
+  <a href="https://gin-gonic.com/ja/" >
+    <img alt="Gin" src="https://img.shields.io/badge/Gin-008fd1?style=flat&logo=Gin&logoColor=white" />
+  </a>
 </p>
 
-### Cloud
+
+### Cloud Services
 
 <p>
   <a href="https://firebase.google.com/" >
@@ -97,6 +109,15 @@
 </p>
 
 <p>
+  <a href="https://aws.amazon.com/jp/" >
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat" />
+  </a>
+  <a href="https://aws.amazon.com/jp/ec2/" >
+    <img alt="EC2" src="https://img.shields.io/badge/EC2-000000?style=flat" />
+  </a>
+</p>
+
+<p>
   <a href="https://www.cloudflare.com/ja-jp/" >
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f48120?style=flat&logo=Cloudflare&logoColor=white" />
   </a>
@@ -112,7 +133,7 @@
   
 </p>
 
-### Others
+### DevOps and Others
 
 <p>
   <a href="https://www.docker.com/" >
@@ -149,91 +170,94 @@ dateFormat YYYY-MM
 axisFormat %Y-%m
 tickInterval 3month
 
-Chat App: 2021-05, 2022-05
-Matching App: 2021-08, 2022-05
-SNS App: 2022-07, 2023-06
-Travel App: 2022-11, 2023-07
-Matching App: 2022-12, 2023-03
-OCR App: 2023-04, 2023-07
+Chat Application: 2021-05, 2022-05
+Matching Application: 2021-08, 2022-05
+SNS Application: 2022-07, 2023-06
+Travel Application: 2022-11, 2023-07
+Matching Application: 2022-12, 2023-03
+OCR Application: 2023-04, 2023-07
 AI Voice Talk: 2023-08, 2023-10
 ```
 
-### Chat App Dev (1 year)
+### Chat Application Development (1 Year)
 
 agile dev
 
 - **Features I implemented：**
 
-  - FrontEnd app dev in React Native + Expo
-  - Backend API dev in Rails + Graphql
+  - FrontEnd application development in React Native + Expo
+  - Backend API development in Rails + Graphql
   - Test code writing using Rspec
   - Firebase Auth, Storage, Function
 
-### Maching App Dev (9 months)
+### Matching Application Development (9 Months)
 
 agile dev
 
 - **Features I implemented：**
 
-  - Web page dev in Next.js
-  - Backend API dev in Rails + Graphql
+  - Web page development in Next.js
+  - Backend API development in Rails + Graphql
   - Test code writing using Rspec
   - Firebase Auth
-  - Implementation of a function to fetch data via an external API and store it in a DB.
-  - Implement error detection tools
-  - Implement email delivery tools
+  - Implementation of a function to fetch data via an external API and store it in a DB
+  - Implementation of error detection tools
+  - Implementation of email delivery tools
  
-### SNS App Dev (11 months)
+### SNS Application Development (11 Months)
 
-- **担当した実装：**
+- **Features I implemented：**
 
-  - フロントエンド・バックエンド・インフラまで対応
-  - FlutterでMVVMアーキテクチャでの開発
-    - Firestoreを利用したリアルタイムチャット機能の実装
-    - FlutterWebの導入
-  - Ruby on Railsでのバックエンド開発
-  - Firebase全般(Authentication, Storage, Firestore, Hosting, Function)
-    - Firestoreの更新によってFunctionで自動で通知を送る機能
-  - AWS　EC2でのデプロイ作業、障害調査
+  - Mobile application development in Flutter
+    - Implementation of real-time chat function using Firestore.
+    - Implementation of FlutterWeb
+  - Backend API development in Ruby on Rails
+  - Firebase (Authentication, Storage, Firestore, Hosting, Function)
+  - Deployment work and failure investigation on AWS EC2
  
-### Travel App Dev (8 months)
+### Travel Application Development (8 Months)
 
-- **担当した実装：**
+- **Features I implemented：**
 
-  - Flutterでの難しい実装とメインレビュアー
-    - [CustomPaint](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)を使用したグラフィカルなUIの実装
-    - [Sliver](https://docs.flutter.dev/ui/advanced/slivers)を利用したファンシーなスクロールの実装
-    - RevenueCatを利用した課金機能の実装
-    - コア機能の設計・実装
+  - Mobile application development in Flutter
+    - Implement a rich　Japanese map using [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html).
+    - Implementation of rich scrolling using [Sliver](https://docs.flutter.dev/ui/advanced/slivers)
+    - Implementation of billing function using RevenueCat
+    - Design and Implementation of core functions
 
-### Matching App Dev (3 months)
+### Matching Application Development (3 Months)
 
-- **担当した実装：**
+- **Features I implemented：**
 
-  - Ruby on Railsでバックエンド・管理者画面の開発
-    - モバイルへのプッシュ通知送信機能の実装
+  - Backend and admin page development in Ruby on Rails
+    - Implementation of Push Notification function to Mobile
   
-### OCR App Dev (3 months)
+### OCR Application Development (3 Months)
 
-- **担当した実装：**
+- **Features I implemented：**
 
-  - Flutterでコア機能のバグ修正
+  -　Bug fix of core functions in Flutter
 
 ### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) (2 moths)
 
----
+- **Features I implemented：**
 
-## 意欲・興味
-
-- フロントエンドだけでなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、どんどん新しい技術を学んでいきたいです
-- 大規模チーム開発にも興味があります。アーキテクチャや使用技術の選定をどうしているのかに興味があります
-- OSS に参加して、バグ修正などをやっていきたいです
-- 個人開発にも興味があり、面白いアイデアがあれば積極的に作っていきたいです
+  - All. For more information, click the link above.
 
 ---
 
-## 希望条件
+## Willingness/Interest
 
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えさせていただきたいです
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+- I am intensely interested in new fields and technologies and would like to learn more about new technologies!
+- I am interested in large-scale team development. I am interested in how the team selects the architecture and technologies.
+- I would like to participate in OSS and fix bugs.
+- If there are exciting ideas, I would like to develop them.
+
+---
+
+## Desired Conditions
+
+- I live in rural areas and would like to work remotely.
+- I like the process of creating user-first products. As I am told, I would like to talk with you about functional requirements rather than just making them.
+- I like to work in an environment where I can proactively tackle new challenges.
+
