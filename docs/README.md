@@ -96,6 +96,22 @@
   </a>
 </p>
 
+<p>
+  <a href="https://www.cloudflare.com/ja-jp/" >
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f48120?style=flat&logo=Cloudflare&logoColor=white" />
+  </a>
+  <a href="https://developers.cloudflare.com/dns/" >
+    <img alt="Cloudflare DNS" src="https://img.shields.io/badge/DNS-f48120?style=flat&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://web.arena.ne.jp/indigo/" >
+    <img alt="VPS" src="https://img.shields.io/badge/VPS-574486?style=flat" />
+  </a>
+  
+</p>
+
 ### Others
 
 <p>
@@ -116,6 +132,9 @@
   </a>
   <a href="https://www.revenuecat.com/" >
     <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat" />
+  </a>
+  <a href="https://www.zabbix.com/jp" >
+    <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-d40000?style=flat&logo=zabbix&logoColor=white" />
   </a>
 </p>
 
@@ -141,32 +160,28 @@ AI Voice Talk: 2023-08, 2023-10
 
 ### Chat App Dev (1 year)
 
-- **プロジェクト規模：**
+agile dev
 
-  - 2~4 人でのアジャイル開発
+- **Features I implemented：**
 
-- **担当した実装：**
-
-  - React Native + Expo でのアプリ開発
-  - Rails + Graphql でのバックエンド開発
-  - Rspec を使用したテストコード作成
-  - Firebase でのユーザー認証、ストレージアクセス権限設定、独自 Function の開発など
+  - FrontEnd app dev in React Native + Expo
+  - Backend API dev in Rails + Graphql
+  - Test code writing using Rspec
+  - Firebase Auth, Storage, Function
 
 ### Maching App Dev (9 months)
 
-- **プロジェクト規模：**
+agile dev
 
-  - 3 人でのアジャイル開発
+- **Features I implemented：**
 
-- **担当した実装：**
-
-  - Next.js での Web ページ開発
-  - Rails + Graphql でのバックエンド開発
-  - Rspec を使用したテストコードの作成
-  - Firebase でのユーザー認証設定
-  - 外部 API でデータを取得し、DB に保存する機能の実装
-  - エラー検知ツールの導入
-  - メール配信ツールの導入
+  - Web page dev in Next.js
+  - Backend API dev in Rails + Graphql
+  - Test code writing using Rspec
+  - Firebase Auth
+  - Implementation of a function to fetch data via an external API and store it in a DB.
+  - Implement error detection tools
+  - Implement email delivery tools
  
 ### SNS App Dev (11 months)
 
