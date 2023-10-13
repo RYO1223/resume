@@ -3,8 +3,8 @@
 ## Contact Information
 
 - Email: kuwanor0811@gmail.com
-- Phone: +81-80-4637-0565
 - Location: Tokushima Japan
+- Linkedin: [ryo-kuwano](https://www.linkedin.com/in/ryo-kuwano-1b03a8296)
 
 ### Social Media & Github
 
@@ -185,7 +185,7 @@ Environment: Flutter, Ruby on Rails, Firebase, AWS EC2
 Environment: Flutter, RevenueCat
 
 - Developed mobile application using Flutter.
-  - Implemented rich　Japanese map using [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html).
+  - Implemented rich Japanese map using [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html).
   - Implemented rich scrolling using [Sliver](https://docs.flutter.dev/ui/advanced/slivers).
   - Implemented billing functions using RevenueCat.
 
