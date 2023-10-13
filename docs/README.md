@@ -6,9 +6,7 @@
 - Phone: +81-80-4637-0565
 - Location: Tokushima Japan
 
----
-
-## Social Media & Github
+### Social Media & Github
 
 <p>
   <a href="https://github.com/RYO1223" >
@@ -21,16 +19,6 @@
 ## Summary
 
 Highly motivated software developer with a strong background in mobile and web application development. Experienced in working with various technology stacks and cloud services. Passionate about learning new technologies and contributing to team success.
-
----
-## Skills
-
-- Web page development in Next.js (1 Year)
-- Mobile application development in React Native (1 Year)
-- Mobile application development in Flutter (1 Year)
-- Backend application development in Ruby on Rails (1 Year)
-- Development using various Firebase features (2 Years)
-- Personal app [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) development from design to submission to Stores
 
 ---
 
@@ -115,6 +103,9 @@ Highly motivated software developer with a strong background in mobile and web a
   <a href="https://aws.amazon.com/jp/ec2/" >
     <img alt="EC2" src="https://img.shields.io/badge/EC2-000000?style=flat" />
   </a>
+  <a href="https://aws.amazon.com/jp/sns/" >
+    <img alt="SNS" src="https://img.shields.io/badge/SNS-000000?style=flat" />
+  </a>
 </p>
 
 <p>
@@ -161,103 +152,77 @@ Highly motivated software developer with a strong background in mobile and web a
 
 ---
 
-## Details of work history
-
-```mermaid
-gantt
-
-dateFormat YYYY-MM
-axisFormat %Y-%m
-tickInterval 3month
-
-Chat Application: 2021-05, 2022-05
-Matching Application: 2021-08, 2022-05
-SNS Application: 2022-07, 2023-06
-Travel Application: 2022-11, 2023-07
-Matching Application: 2022-12, 2023-03
-OCR Application: 2023-04, 2023-07
-AI Voice Talk: 2023-08, 2023-10
-```
+## Professional Experience
 
 ### Chat Application Development (1 Year)
 
-agile dev
+Environment: React Native, Expo, Ruby on Rails, Graphql, Firebase
 
-- **Features I implemented：**
-
-  - FrontEnd application development in React Native + Expo
-  - Backend API development in Rails + Graphql
-  - Test code writing using Rspec
-  - Firebase Auth, Storage, Function
+- Developed frontend application using React Native and Expo.
+- Implemented backend API using Ruby on Rails and GraphQL.
+- Integrated Firebase services.
 
 ### Matching Application Development (9 Months)
 
-agile dev
+Environment: Next.js, Ruby on Rails, GraphQL, Firebase
 
-- **Features I implemented：**
-
-  - Web page development in Next.js
-  - Backend API development in Rails + Graphql
-  - Test code writing using Rspec
-  - Firebase Auth
-  - Implementation of a function to fetch data via an external API and store it in a DB
-  - Implementation of error detection tools
-  - Implementation of email delivery tools
+- Developed web page using Next.js.
+- Implemented backend API using Ruby on Rails and GraphQL.
+- Integrated Firebase, Sentry and SendGrid
  
 ### SNS Application Development (11 Months)
 
-- **Features I implemented：**
+Environment: Flutter, Ruby on Rails, Firebase, AWS EC2
 
-  - Mobile application development in Flutter
-    - Implementation of real-time chat function using Firestore.
-    - Implementation of FlutterWeb
-  - Backend API development in Ruby on Rails
-  - Firebase (Authentication, Storage, Firestore, Hosting, Function)
-  - Deployment work and failure investigation on AWS EC2
+- Developed mobile application and web using Flutter.
+  - Implemented real-time chat using Firestore.
+- Implemented backend API using Ruby on Rails.
+- Integrated Firebase Services.
+- Deployed and managed service on AWS EC2.
  
 ### Travel Application Development (8 Months)
 
-- **Features I implemented：**
+Environment: Flutter, RevenueCat
 
-  - Mobile application development in Flutter
-    - Implement a rich　Japanese map using [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html).
-    - Implementation of rich scrolling using [Sliver](https://docs.flutter.dev/ui/advanced/slivers)
-    - Implementation of billing function using RevenueCat
-    - Design and Implementation of core functions
+- Developed mobile application using Flutter.
+  - Implemented rich　Japanese map using [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html).
+  - Implemented rich scrolling using [Sliver](https://docs.flutter.dev/ui/advanced/slivers).
+  - Implemented billing functions using RevenueCat.
 
 ### Matching Application Development (3 Months)
 
-- **Features I implemented：**
+Environment: Ruby on Rails, AWS SNS
 
-  - Backend and admin page development in Ruby on Rails
-    - Implementation of Push Notification function to Mobile
+- Developed backend and admin page using Ruby on Rails.
   
 ### OCR Application Development (3 Months)
 
-- **Features I implemented：**
+Environment: Flutter
 
-  -　Bug fix of core functions in Flutter
-
-### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) (2 moths)
-
-- **Features I implemented：**
-
-  - All. For more information, click the link above.
+- Focused on bug fixing and performance optimization.
 
 ---
 
-## Willingness/Interest
+## My applications
 
-- I am intensely interested in new fields and technologies and would like to learn more about new technologies!
-- I am interested in large-scale team development. I am interested in how the team selects the architecture and technologies.
-- I would like to participate in OSS and fix bugs.
-- If there are exciting ideas, I would like to develop them.
+### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) (2 moths)
+
+- Developed the entire application. For more details, click [here](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md)
+
+---
+
+## Career Interests
+
+- Eager to explore new fields and technologies.
+- Interested in large-scale team development and architectural decisions.
+- Keen to contribute to open-source projects.
+- Open to exciting development opportunities.
 
 ---
 
 ## Desired Conditions
 
-- I live in rural areas and would like to work remotely.
-- I like the process of creating user-first products. As I am told, I would like to talk with you about functional requirements rather than just making them.
-- I like to work in an environment where I can proactively tackle new challenges.
+- Open to remote work opportunities.
+- Passionate about user-centric product development.
+- Thrive in environments that encourage new challenges.
 
