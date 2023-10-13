@@ -205,9 +205,9 @@ Environment: Flutter
 
 ## My applications
 
-### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md) (2 moths)
+### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README.md) (2 moths)
 
-- Developed the entire application. For more details, click [here](https://github.com/RYO1223/resume/blob/master/docs/AI_Voice_Talk.md)
+- Developed the entire application. For more details, click [here](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README.md)
 
 ---
 
