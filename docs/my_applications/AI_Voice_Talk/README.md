@@ -8,6 +8,8 @@
 
 ## アーキテクチャ
 
+![architecture](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/architecture.jpg?raw=true)
+
 ### フロントエンド
 
 - **技術スタック**: Flutter
