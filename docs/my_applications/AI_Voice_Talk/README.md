@@ -1,36 +1,48 @@
 # AI Voice Talk
 
-## 概要
+## Summary
 
-このアプリは、STT（音声認識）、ChatGPT（AI対話）、TTS（テキストから音声へ）の技術を活用して、ユーザーの音声データからAIの返答を音声データとして再生します。
+自分で設定したAIと音声チャットすることができる
 
 ---
 
-## アーキテクチャ
+## Architecture
 
 ![architecture](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/architecture.jpg?raw=true)
 
-### フロントエンド
+### Frontend
 
-- **技術スタック**: Flutter
-- **通信**: WebSocket
+- **Language**: Dart/Flutter
 
-### バックエンド
+  - **Architecture**: View-Service-Repository
+  - **Core Libraries**: Riverpod, go_router
 
-- **技術スタック**: Golang
-- **通信**: WebSocket
+### Backend
 
-### インフラストラクチャ
+- **Language**: Golang/Gin
+- **Connection**: WebSocket
 
-- **DNS**: Cloudflare
-- **セキュリティ**: Cloudflareのリバースプロキシ
-- **課金**: RevenueCat
+### Infrastructure
+
+- Cloudflare: DNS, Reverse Proxy
+- RevenueCat
+- GCP: Firebase Authentication, Text-to-Speech, Speech-to-Text
+- ChatGPT
 
 ---
 
-## 機能詳細
+## Function Detail
 
-### 基本機能
+### Basic Function
+
+1. Room Creation, Update, Deletion
+
+AIの性別や性格、話す速度、自分との関係性や出会うシチュエーションを設定できます。
+
+2. Talk with AI
+
+マイクボタンを押しながら話すと録音されてサーバーに送信されます。
+その後、sttによりテキストになり、それを、AIの性格やこれまでの会話と合わせてChatGPTに送信します
 
 1. **音声認識 (STT)**
     - ユーザーの音声データをテキストデータに変換します。
@@ -45,7 +57,7 @@
 
 - AIの性格、性別、話す速度などはユーザーが設定可能です。
 
-### サブスクリプション
+### Subscription
 
 - サブスクに加入することで上記の機能がフルに利用できます。
 
