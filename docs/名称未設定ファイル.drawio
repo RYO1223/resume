@@ -1,9 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T12:26:03.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="EFnmTNFFzaGhi01Klt5l" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T12:36:27.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="I9M9lsPdMLQwiILvco5R" version="22.0.4" type="github">
   <diagram name="ページ1" id="21Ub86jXEHeHZIK-sHaW">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uPsoir4W_fIyA9gBqgu5-7" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPsoir4W_fIyA9gBqgu5-8" value="&lt;font color=&quot;#000000&quot;&gt;Firebase&lt;br&gt;Authentication&lt;br&gt;&lt;/font&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="uPsoir4W_fIyA9gBqgu5-7">
+          <mxGeometry width="32.4" height="45" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPsoir4W_fIyA9gBqgu5-10" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPsoir4W_fIyA9gBqgu5-11" value="&lt;font color=&quot;#000000&quot;&gt;RevenueCat&lt;/font&gt;" style="sketch=0;dashed=0;connectable=1;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="uPsoir4W_fIyA9gBqgu5-10">
+          <mxGeometry width="30" height="45" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
