@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T02:42:25.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="n6WQrpFxgmC7g31viX87" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T05:08:59.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vrcLPd6QMeTj2OHoCqre" version="22.0.4" type="github">
   <diagram name="ページ1" id="21Ub86jXEHeHZIK-sHaW">
-    <mxGraphModel dx="1434" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uPsoir4W_fIyA9gBqgu5-14" value="RevenueCat" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+        <mxCell id="uPsoir4W_fIyA9gBqgu5-14" value="RevenueCat&lt;br&gt;(Subscription&lt;br&gt;management)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="220" y="292" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uPsoir4W_fIyA9gBqgu5-21" value="Client" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/26-Smartphone-128.png;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;imageBackground=none;" parent="1" vertex="1">
@@ -85,10 +85,10 @@
             <mxPoint x="350" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKqNcAVWp5OLpvhDNlYv-1" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="eKqNcAVWp5OLpvhDNlYv-1" value="Zabbix&lt;br&gt;(Monitoring)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKqNcAVWp5OLpvhDNlYv-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="eKqNcAVWp5OLpvhDNlYv-1" target="uPsoir4W_fIyA9gBqgu5-24">
+        <mxCell id="eKqNcAVWp5OLpvhDNlYv-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="1" source="eKqNcAVWp5OLpvhDNlYv-1" target="uPsoir4W_fIyA9gBqgu5-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="400" as="sourcePoint" />
             <mxPoint x="840" y="302" as="targetPoint" />
