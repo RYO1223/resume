@@ -19,15 +19,17 @@
 
 ### Backend
 
-- **Language**: Golang/Gin
-- **Connection**: WebSocket
+- **Language**: Golang
+
+  - **Core Libraries**: Gin, Zap
 
 ### Infrastructure
 
 - Cloudflare: DNS, Reverse Proxy
-- RevenueCat
+- RevenueCat (Subscription management)
 - GCP: Firebase Authentication, Text-to-Speech, Speech-to-Text
 - ChatGPT
+- Zabbix (Server monitoring)
 
 ---
 
@@ -37,45 +39,39 @@
 
 1. Room Creation, Update, Deletion
 
-AIの性別や性格、話す速度、自分との関係性や出会うシチュエーションを設定できます。
+Create a room for each AI.
+
+You can set AI's settings below
+- name
+- speaking language
+- gender
+- personality
+- speaking rate
+- relationship with you
+- situations in which you meet.
 
 2. Talk with AI
 
-マイクボタンを押しながら話すと録音されてサーバーに送信されます。
-その後、sttによりテキストになり、それを、AIの性格やこれまでの会話と合わせてChatGPTに送信します
-
-1. **音声認識 (STT)**
-    - ユーザーの音声データをテキストデータに変換します。
-
-2. **AI対話 (ChatGPT)**
-    - 音声認識で得られたテキストをAIが解析し、適切な返答を生成します。
-
-3. **テキストから音声へ (TTS)**
-    - AIの返答を音声データに変換して再生します。
-
-### カスタマイズ機能
-
-- AIの性格、性別、話す速度などはユーザーが設定可能です。
+When you speak while holding down the microphone button, it is recorded and sent to the server.
+Then, it is converted to text by GCP Speak-to-Text and sent to ChatGPT, along with the AI's settings and previous conversations.
+ChatGPT's reply is converted into voice data by GCP Text-to-Speak and returned to the client.
 
 ### Subscription
 
-- サブスクに加入することで上記の機能がフルに利用できます。
+Subscribing to a subscriber allows full access to the above features.
 
-### マルチデバイス対応
+### Multiple Device
 
-- RevenueCatを用いて、ユーザーは同じアカウントで複数の端末でアプリを使用できます。
-
----
-
-## セキュリティ
-
-- Cloudflareのリバースプロキシを通すことで、セキュリティ対策を強化しています。
-- HTTPSリダイレクトも行っています。
+Since Revenuecat manages billing by referencing the FirebaseAuthentication uid,
+If the same account is used on a different device, it will be determined that the subscription has been subscribed to.
 
 ---
 
-## 連絡先
+## Secutity
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- By passing through Cloudflare's reverse proxy, the IP address of the backend server is hidden. This prevents attacks on the domain.
+- OAuth authentication lowers the risk of passwords and other information being compromised.
 
+## Server Monitioring
+
+- Server load monitoring and health checks by Zabbix.
