@@ -4,7 +4,7 @@
 
 - Email: kuwanor0811@gmail.com
 - Location: Tokushima Japan
-- Linkedin: [ryo-kuwano](https://www.linkedin.com/in/ryo-kuwano-1b03a8296)
+- Linkedin: [Ryo-Kuwano](https://www.linkedin.com/in/ryo-kuwano-1b03a8296)
 
 ### Social Media & Github
 
