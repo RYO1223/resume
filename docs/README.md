@@ -1,10 +1,11 @@
 # Ryo Kuwano's Resume
 
-## Contact Information
+## Personal Information
 
 - Email: kuwanor0811@gmail.com
 - Location: Tokushima Japan
 - Linkedin: [Ryo-Kuwano](https://www.linkedin.com/in/ryo-kuwano-1b03a8296)
+- English level: [Upper-Intermediate](https://github.com/RYO1223/resume/blob/master/docs/my_duolingo_english_test_score-2013_10_26.png) - [Score Convertion Table](https://englishtest.duolingo.com/prepare/scores)
 
 ### Social Media & Github
 
