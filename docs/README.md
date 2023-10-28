@@ -4,9 +4,9 @@
 
 - Email: kuwanor0811@gmail.com
 - Location: Tokushima Japan
+- Notification of Opening: [here](https://github.com/RYO1223/resume/blob/master/docs/my_notification_of_opening_in_japan.pdf)
+- English Level: [Upper-Intermediate](https://github.com/RYO1223/resume/blob/master/docs/my_duolingo_english_test_score-2013_10_26.png) - [Score Convertion Table](https://englishtest.duolingo.com/prepare/scores)
 - Linkedin: [Ryo-Kuwano](https://www.linkedin.com/in/ryo-kuwano-1b03a8296)
-- English level: [Upper-Intermediate](https://github.com/RYO1223/resume/blob/master/docs/my_duolingo_english_test_score-2013_10_26.png) - [Score Convertion Table](https://englishtest.duolingo.com/prepare/scores)
-
 ### Social Media & Github
 
 <p>
