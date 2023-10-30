@@ -125,6 +125,14 @@ Highly motivated software developer with a strong background in mobile and web a
   
 </p>
 
+### AI
+
+<p>
+  <a href="https://openai.com/" >
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openAi&logoColor=white" />
+  </a>
+</p>
+
 ### DevOps and Others
 
 <p>
@@ -207,6 +215,8 @@ Environment: Flutter
 ## My applications
 
 ### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README.md) (2 moths)
+
+Environment: Flutter, ChatGPT, Go, etc
 
 - Developed the entire application. For more details, click [here](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README.md)
 
