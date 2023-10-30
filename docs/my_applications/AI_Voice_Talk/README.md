@@ -69,6 +69,35 @@ RevenueCat manages subscriptions via Firebase Authentication uid, which you can 
 
 ---
 
+## AI 
+
+In order to obtain an appropriate response (in this case, only the AI's response; no explanation is needed), a technique called prompt engineering must be used appropriately.
+
+If you don't use the proper prompts, your response will look like this.
+
+> Prompt
+> 
+> ```
+> The sky is
+> ```
+> 
+> Output:
+> 
+> ```
+> blue
+> 
+> The sky is blue on a clear day. On a cloudy day, the sky may be gray or white.
+> ```
+>
+> https://www.promptingguide.ai/introduction/basics#basic-prompts
+
+### [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot)
+
+Whenever You create a new room, you always start with a greeting automatically because the beginning of the conversation is unlikely to be responded to correctly by the AI.
+
+It also begins with a greeting in the language set for the room. This increases the likelihood that the AI will respond in that language.
+The "few-shot" increases as the conversation continues, increasing the likelihood of a correct response.
+
 ## Secutity
 
 - Cloudflare's reverse proxy hides the backend server's IP address, preventing domain-based attacks.
