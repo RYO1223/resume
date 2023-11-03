@@ -1,30 +1,30 @@
 # AI Voice Talk
 
-## Summary
+## 概要
 
-Voice chat with an AI of your own creation.
+自分で作成したAIとボイスチャットができるアプリです。
 
 - [App Store](https://apps.apple.com/us/app/ai-voice-talk/id6449139482)
 - [Google Play]() - Coming Soon...
 
 ---
 
-## Architecture
+## アーキテクチャ
 
 ![architecture](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/architecture.jpg?raw=true)
 
-### Frontend
+### フロントエンド
 
-- **Language**: Dart/Flutter
-- **Architecture**: View-Service-Repository
-- **Core Libraries**: Riverpod, go_router
+- **言語**: Dart/Flutter
+- **アーキテクチャ**: View-Service-Repository
+- **コアライブラリ**: Riverpod, go_router
 
-### Backend
+### バックエンド
 
-- **Language**: Golang
-- **Core Libraries**: Gin, Zap
+- **言語**: Golang
+- **コアライブラリ**: Gin, Zap
 
-### Infrastructure
+### インフラ
 
 - Cloudflare: DNS, Reverse Proxy
 - RevenueCat for subscription management
@@ -34,75 +34,76 @@ Voice chat with an AI of your own creation.
 
 ---
 
-## Function Detail
+## 機能詳細
 
-### Basic Function
+### 基本機能
 
-#### Room Creation, Update, Deletion
+#### ルーム作成・更新・削除
 
-Create a personalized room for each AI companion. Customize your AI's settings:
+それぞれのAIごとにルームを作成します。各AIは以下のものを設定できます:
 
-- name
-- speaking language
-- gender
-- personality
-- speaking rate
-- relationship with you
-- situations in which you meet.
+- 名前
+- 話す言語
+- 性別
+- 性格
+- 話す速度
+- あなたとの関係性
+- AIと出会った状況
 
 <img src="https://github.com/RYO1223/resume/assets/70420716/72d5dac5-106f-432f-8cac-f4b5723f4a19" width="30%" />
 
-#### Talk with AI
+#### AIと話す
 
-1. **Record Voice:** Captures your spoken voice for AI interaction.
-2. **Transmit Spoken Audio:** Forward audio to the backend server. 
-3. **Speach-to-Text Conversin:** Use GCP Speak-to-Text to convert from audio to text.
-4. **Response Generation:** Send text, AI's settings, and previous conversation history to ChatGPT for the AI's response.
-5. **Text-to-Speach Conversion:** Utilize GCP Text-to-Speach for response audio.
-6. **Client Audio Feedback:** Delivers the generated response audio back to the client for playback.
+1. **ボイス録音:** あなたが話したことを録音します。
+2. **音声データの送信:** バックエンドサーバーに録音データを送信します。
+3. **Speach-to-Text 変換:** GCPのSpeak-to-Textを使用して、音声をテキストに変換します。
+4. **AIの返答生成:** テキスト、AIの設定、これまでの会話をChatGPTに送信して、AIの返答を生成します。
+5. **Text-to-Speach 変換:** GCPのText-to-Speachを使用して、テキストを音声に変換します。
+6. **クライアントに送信:** 生成した音声データをクライアントに送信して、再生します。
 
 <img src="https://github.com/RYO1223/resume/assets/70420716/f0062a37-98cb-417b-b15c-64403a678729" width="30%" /><img src="https://github.com/RYO1223/resume/assets/70420716/486673ba-cd74-4fec-bfb2-0a6829a565be" width="30%" />
 
-### Multiple Device Support
+### マルチデバイスサポート
 
-RevenueCat manages subscriptions via Firebase Authentication uid, which you can use across devices for the same account.
+Firebase AuthenticationとRevenueCatを使用して、同じアカウントでログインしている端末全てで課金機能を使用することができます。
 
 ---
 
 ## AI 
 
-In order to obtain an appropriate response (in this case, only the AI's response; no explanation is needed), a technique called prompt engineering must be used appropriately.
+AIから正しい返答（この場合は設定した人格の返答のみ。説明は必要ないので生成されないようにする。）を生成するためにプロンプトエンジニアリングと呼ばれる手法を使用しています。
 
-If you don't use the proper prompts, your response will look like this.
+もし適切なプロンプトを使用しなければ、このようになります。
 
-> Prompt
-> 
+> プロンプト
+>
 > ```
-> The sky is
+> 空が
 > ```
 > 
-> Output:
-> 
+> 出力:
+>
 > ```
-> blue
-> 
-> The sky is blue on a clear day. On a cloudy day, the sky may be gray or white.
+> 青い
+> 晴れた日には空は青く、曇った日には空は灰色や白色になることがあります。
 > ```
 >
 > https://www.promptingguide.ai/introduction/basics#basic-prompts
 
-### [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot)
+### [Few-Shotプロンプティング](https://www.promptingguide.ai/jp/techniques/fewshot)
 
-Whenever You create a new room, you always start with a greeting automatically because the beginning of the conversation is unlikely to be responded to correctly by the AI.
 
-It also begins with a greeting in the language set for the room. This increases the likelihood that the AI will respond in that language.
-The "few-shot" increases as the conversation continues, increasing the likelihood of a correct response.
+ルームを作成してすぐは過去の会話がないため、上記で示したように適切な返答が得られない可能性が高いです。
+そのため、ルームを作成するときは常に挨拶から始まるようにしています。
 
-## Secutity
+それに加え、AIが必ず設定した言語で返答するように、挨拶はその言語でするようにしています。
+会話が続くに連れて適切な応答をする可能性が高まります。
 
-- Cloudflare's reverse proxy hides the backend server's IP address, preventing domain-based attacks.
-- OAuth authentication enhances security, reducing the risk of password and data exposure.
+## セキュリティ
 
-## Server Monitoring
+- ドメインへの攻撃を防ぐために、Cloudflareのreverse proxyを使用して、バックエンドのIPアドレスを隠しています。
+- パスワードやその他の個人情報の漏洩リスクを減らすためにOAuth認証を使用しています。
 
-I maintain server health and performance through continuous monitoring and health checks using Zabbix.
+## サーバーモニタリング
+
+Zabbixを使用して、サーバーのヘルスチェック、パフォーマンスアラームを設定しています。
