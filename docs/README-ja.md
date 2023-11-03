@@ -1,38 +1,28 @@
 # 職務経歴書
 
-## 基本情報
+## 個人情報
 
-| key      | value                |
-| -------- | -------------------- |
-| 氏名     | 桑野 涼 (Kuwano Ryo) |
-| 生年月日 | 1999/08/11           |
-| 居住地   | 徳島県               |
+- Email: kuwanor0811@gmail.com
+- 居住地: 徳島県
+- 開業届: [こちら](https://github.com/RYO1223/resume/blob/master/docs/my_notification_of_opening_in_japan.pdf)
+- 英語レベル: [Upper-Intermediate](https://github.com/RYO1223/resume/blob/master/docs/my_duolingo_english_test_score-2013_10_26.png) - [スコア換算表](https://englishtest.duolingo.com/prepare/scores)
+- Linkedin: [Ryo-Kuwano](https://www.linkedin.com/in/ryo-kuwano-1b03a8296)
 
----
-
-## 各種アカウント
+### 各種アカウント
 
 <p>
   <a href="https://github.com/RYO1223" >
     <img alt="GitHub" src="https://img.shields.io/badge/kuwanoryo-181717.svg?&style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/RYO59804624" >
-    <img alt="Twitter" src="https://img.shields.io/badge/@RYO59804624-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/RYO1223" >
-    <img alt="Qiita" src="https://img.shields.io/badge/RYO1223-55C500.svg?&style=flat&logo=qiita&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 保有スキル
+## 概要
 
-- TypeScript + Next.js での Web ページ開発(1年未満)
-- TypeScript + React Native でのアプリ開発(1年)
-- Flutter でのアプリ開発(1年)
-- Ruby on Rails でのバックエンド開発(1年)
-- Firebase の各種機能を使用した開発(2年)
+- モバイルアプリ開発を得意とするソフトウェア開発者です。
+- 様々な技術スタックやクラウドサービスの使用経験があります。
+- 新しい技術を学び、チームの成功に貢献することに情熱を持っています。
 
 ---
 
@@ -50,9 +40,12 @@
   <a href="https://www.ruby-lang.org/ja/" >
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white" />
   </a>
+  <a href="https://go.dev/" >
+    <img alt="Golang" src="https://img.shields.io/badge/Go-00aed9?style=flat&logo=Go&logoColor=white" />
+  </a>
 </p>
 
-### フレームワーク
+### フロントエンドフレームワーク
 
 <p>
   <a href="https://ja.reactjs.org/" >
@@ -70,12 +63,21 @@
   <a href="https://flutter.dev/" >
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   </a>
+</p>
+
+### バックエンドフレームワーク
+
+<p>
   <a href="https://rubyonrails.org/" >
     <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=Ruby-on-Rails&logoColor=white" />
   </a>
+  <a href="https://gin-gonic.com/ja/" >
+    <img alt="Gin" src="https://img.shields.io/badge/Gin-008fd1?style=flat&logo=Gin&logoColor=white" />
+  </a>
 </p>
 
-### クラウド
+
+### クラウドサービス
 
 <p>
   <a href="https://firebase.google.com/" >
@@ -98,7 +100,43 @@
   </a>
 </p>
 
-### その他
+<p>
+  <a href="https://aws.amazon.com/jp/" >
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat" />
+  </a>
+  <a href="https://aws.amazon.com/jp/ec2/" >
+    <img alt="EC2" src="https://img.shields.io/badge/EC2-000000?style=flat" />
+  </a>
+  <a href="https://aws.amazon.com/jp/sns/" >
+    <img alt="SNS" src="https://img.shields.io/badge/SNS-000000?style=flat" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.cloudflare.com/ja-jp/" >
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f48120?style=flat&logo=Cloudflare&logoColor=white" />
+  </a>
+  <a href="https://developers.cloudflare.com/dns/" >
+    <img alt="Cloudflare DNS" src="https://img.shields.io/badge/DNS-f48120?style=flat&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://web.arena.ne.jp/indigo/" >
+    <img alt="VPS" src="https://img.shields.io/badge/VPS-574486?style=flat" />
+  </a>
+  
+</p>
+
+### AI
+
+<p>
+  <a href="https://openai.com/" >
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openAi&logoColor=white" />
+  </a>
+</p>
+
+### DevOpsとその他
 
 <p>
   <a href="https://www.docker.com/" >
@@ -119,102 +157,84 @@
   <a href="https://www.revenuecat.com/" >
     <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat" />
   </a>
+  <a href="https://www.zabbix.com/jp" >
+    <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-d40000?style=flat&logo=zabbix&logoColor=white" />
+  </a>
 </p>
 
 ---
+## 実務経験
 
-## 職務経歴詳細
+### チャットアプリ開発 (1年)
 
-### 社内向けチャットツールの開発（2021/05〜2022/04）
+環境: React Native, Expo, Ruby on Rails, GraphQL, Firebase
 
-- **プロジェクト規模：**
+- React NativeとExpoを使用したフロントエンドアプリの開発
+- Ruby on RailsとGraphQLを使用したバックエンドAPIの実装
+- Firebaseサービスの統合
 
-  - 2~4 人でのアジャイル開発
+### マッチングアプリ開発 (9ヶ月)
 
-- **担当した実装：**
+環境: Next.js, Ruby on Rails, GraphQL, Firebase
 
-  - React Native + Expo でのアプリ開発
-  - Rails + Graphql でのバックエンド開発
-  - Rspec を使用したテストコード作成
-  - Firebase でのユーザー認証、ストレージアクセス権限設定、独自 Function の開発など
+- Next.jsを使用したウェブページの開発
+- Ruby on RailsとGraphQLを使用したバックエンドAPIの実装
+- Firebase、Sentry、SendGridの統合
 
-### 人材マッチングツールの立ち上げ・開発（2021/08〜2020/04）
+### SNSアプリ開発 (11ヶ月)
 
-- **プロジェクト規模：**
+環境: Flutter, Ruby on Rails, Firebase, AWS EC2
 
-  - 3 人でのアジャイル開発
+- Flutterを使用してモバイルアプリおよびウェブを開発
+  - Firestoreを用いたリアルタイムチャットの実装
+- Ruby on Railsを使用したバックエンドAPIの実装
+- Firebaseサービスの統合
+- AWS EC2上でのサービスのデプロイと管理
 
-- **担当した実装：**
+### 旅行アプリ開発 (8ヶ月)
 
-  - Next.js での Web ページ開発
-  - Rails + Graphql でのバックエンド開発
-  - Rspec を使用したテストコードの作成
-  - Firebase でのユーザー認証設定
-  - 外部 API でデータを取得し、DB に保存する機能の実装
-  - エラー検知ツールの導入
-  - メール配信ツールの導入
- 
-### SNSアプリ開発（2022/07~2023/05）
+環境: Flutter, RevenueCat
 
-- **担当した実装：**
+- Flutterを使用したモバイルアプリの開発
+  - [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)を使用したリッチな日本地図の実装
+  - [Sliver](https://docs.flutter.dev/ui/advanced/slivers)を使用したリッチなスクロールの実装
+  - RevenueCatを使用した課金機能の実装
 
-  - フロントエンド・バックエンド・インフラまで対応
-  - FlutterでMVVMアーキテクチャでの開発
-    - Firestoreを利用したリアルタイムチャット機能の実装
-    - FlutterWebの導入
-  - Ruby on Railsでのバックエンド開発
-  - Firebase全般(Authentication, Storage, Firestore, Hosting, Function)
-    - Firestoreの更新によってFunctionで自動で通知を送る機能
-  - AWS　EC2でのデプロイ作業、障害調査
- 
-### 旅行系アプリ開発(2022/11~2023/06)
+### マッチングアプリ開発 (3ヶ月)
 
-- **担当した実装：**
+環境: Ruby on Rails, AWS SNS
 
-  - Flutterでの難しい実装とメインレビュアー
-    - [CustomPaint](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)を使用したグラフィカルなUIの実装
-    - [Sliver](https://docs.flutter.dev/ui/advanced/slivers)を利用したファンシーなスクロールの実装
-    - RevenueCatを利用した課金機能の実装
-    - コア機能の設計・実装
+- Ruby on Railsを使用したバックエンドおよび管理者ページの開発
 
-### マッチングアプリ開発(2022/12~2023/02)
+### OCRアプリ開発 (3ヶ月)
 
-- **担当した実装：**
+環境: Flutter
 
-  - Ruby on Railsでバックエンド・管理者画面の開発
-    - モバイルへのプッシュ通知送信機能の実装
-  
-### OCR(文字認識)アプリ開発(2023/04~2023/06)
-
-- **担当した実装：**
-
-  - Flutterでコア機能のバグ修正
+- コア機能のバグ修正とパフォーマンス最適化に注力
 
 ---
 
-## 業務外活動
+## 個人開発アプリ
 
-### Flutter チュートリアルアプリ([warikan](https://github.com/RYO1223/warikan))の作成
+### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README-ja.md) (2ヶ月)
 
-mvvm + repository パターンでの開発練習のために作成
+環境: Flutter, ChatGPT, Go, etc
 
-Cloud Firestore を使用して、データを保存
-
-詳しくは[warikan](https://github.com/RYO1223/warikan)の README に書いてあります。
+- アプリケーション全体の開発。詳細は[こちら](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README-ja.md)。
 
 ---
 
 ## 意欲・興味
 
-- フロントエンドだけでなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、どんどん新しい技術を学んでいきたいです
-- 大規模チーム開発にも興味があります。アーキテクチャや使用技術の選定をどうしているのかに興味があります
-- OSS に参加して、バグ修正などをやっていきたいです
-- 個人開発にも興味があり、面白いアイデアがあれば積極的に作っていきたいです
+- 新しい分野や技術に興味・関心が強く、どんどん新しいものを学んでいきたいです。
+- 大規模なチーム開発に興味があります。また、どのようにアーキテクチャや技術選定を行っているのか興味があります。
+- OSSにはいつもお世話になっているので、積極的に参加してバグ修正も行っていきたいです。
+- 面白いアイデアがあれば、個人開発もしていきたいです。
 
 ---
 
 ## 希望条件
 
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えさせていただきたいです
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+- 地方在住なので、フルリモートワークを希望します。
+- ユーザーファーストなプロダクトを作っていきたいです。
+- 新しい挑戦（技術的・制度的）に積極的に取り組める環境が好きです
