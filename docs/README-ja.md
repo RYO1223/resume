@@ -216,7 +216,7 @@
 
 ## 個人開発アプリ
 
-### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README-ja.md) (2ヶ月)
+### [AI Voice Talk](https://github.com/RYO1223/resume/blob/master/docs/my_applications/AI_Voice_Talk/README-ja.md) (1ヶ月)
 
 環境: Flutter, ChatGPT, Go, etc
 
