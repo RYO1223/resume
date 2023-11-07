@@ -12,7 +12,10 @@
 
 <p>
   <a href="https://github.com/RYO1223" >
-    <img alt="GitHub" src="https://img.shields.io/badge/kuwanoryo-181717.svg?&style=flat&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://zenn.dev/ryo1223" >
+    <img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=zenn&logoColor=white" />
   </a>
 </p>
 
